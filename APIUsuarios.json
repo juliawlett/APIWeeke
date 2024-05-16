@@ -1,0 +1,72 @@
+[
+    [
+        "nome;email;telefone;data de nascimento;sexo;cargo;usuário;setor;setores;detalhe;nível;datac;rede social;status"
+    ],
+    [
+        "Augusto Heitor;auuheitor@gmail.com;; ;Homen;DEV Weeke;augustoheitor;DESENVOLVIMENTO;SUPORTE / MELHORIAS;;Supervisor;2023-05-02 08:01:13;;Ativo;"
+    ],
+    [
+        "Beto - Gestary;beto@gestary.com;(65) 99922-8939;31/07/1978 ;Homen;Coord. de Projetos;beto;PRODUÇÃO | CLOUD;FUNIL DE VENDAS| INOVA WEEKE| DESENVOLVIMENTO| CAPACITAÇÃO/IMPLANTAÇÃO| SUPORTE / MELHORIAS| IDÉIAS ESTRATÉGICAS| PRODUÇÃO | CLOUD| MARKETING;;Supervisor;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Dagoberto;dl.massaroli@gmail.com;;00/00/0000 ;Homen;;dago;DESENVOLVIMENTO;DESENVOLVIMENTO;;Supervisor;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Diogo Covello;diogo.covello@bentomuniz.com.br;; ;Homen;Advogado;DiogoCovello;JURÍDICO;;;Supervisor;2023-05-10 14:10:25;;Ativo;"
+    ],
+    [
+        "FORMULÁRIO SITE WEEKE;;6521299077;21/09/2001 ;Homen;API WEB SITE - WEEKE;teste;SUPORTE / MELHORIAS;IDÉIAS ESTRATÉGICAS;FORMULï¿½RIO SITE WEEKE;Supervisor;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Gabriel Cosme;gabriel.cosme@bentomuniz.com.br;; ;Homen;Advogado;gabrielcosme;JURÍDICO;;;Supervisor;2023-05-10 14:05:34;;Ativo;"
+    ],
+    [
+        "Jackson aparecido Fernandes Pimentel;jacksonfernandescnp@icloud.com;; ;Homen;;jacksonfernandes;DESENVOLVIMENTO;;;Supervisor;2024-02-26 10:29:27;;Ativo;"
+    ],
+    [
+        "Júlia Letícia Miranda Lima;apoio@weekebrasil.com.br;6521299077;07/11/2005 ;Mulher;Estagio Adm/financeiro e Dev.;julia;ADM FINANCEIRO;AVALIAÇÕES| CONTRATOS| DESENVOLVIMENTO| FRANQUEADORA WEEKE| JURÍDICO| CAPACITAÇÃO/IMPLANTAÇÃO| SUPORTE / MELHORIAS| MARKETING;;Administrador;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Leonard Marques ;leonard.marques@bentomuniz.com.br;; ;Homen;Advogado;LeonardMarques ;JURÍDICO;;;Supervisor;2023-05-10 14:08:59;;Ativo;"
+    ],
+    [
+        "Leonardo;leoburlamaqui.j5@gmail.com;65996801799; ;Homen;Comercial Weeke;leonardo;FRANQUEADORA WEEKE;;;Supervisor;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Nagi Terra Tannous;nagiterra@gmail.com;6592665060;11/07/2018 ;Homen;Desenvolvedor Weeke;nagi;DESENVOLVIMENTO;FUNIL DE VENDAS| DESENVOLVIMENTO;Desenvolver para Weeke"
+    ],
+    [
+        "Projeto Artrix | Painel do Frete"
+    ],
+    [
+        "Dias de Semana de Segunda",
+        " Terça e  Quarta"
+    ],
+    [
+        "Kanban  Processo . etc - Quinta e Sexta Feira"
+    ],
+    [
+        "Conforme necessidade e planejamento;Supervisor;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Polyana Carvalho;financeiro@weeke.com.br;(65) 2129-9077;06/04/1991 ;Mulher;Adm e Financeiro;Polyana;ADM FINANCEIRO;AVALIAÇÕES| BANCO CURRÍCULOS| CAMALEÃO SILVESTRE| CONTRATOS| DESAFIOS WEEKE| DESENVOLVIMENTO| FRANQUEADORA WEEKE| FUNIL DE VENDAS| INOVA WEEKE| JURÍDICO| CAPACITAÇÃO/IMPLANTAÇÃO| SUPORTE / MELHORIAS| IDÉIAS ESTRATÉGICAS| PRODUÇÃO | CLOUD| ADM FINANCEIRO| MARKETING;;Administrador;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Roland;rgradinger11@gmail.com;65999262602;00/00/0000 ;Homen;;roland;CAPACITAÇÃO/IMPLANTAÇÃO;;;Supervisor;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Silvestre Carvalho Neto ;silvestre@weeke.com.br;(65)21299077;20/03/1982 ;Homen;Gestor;silvestre;MARKETING;AVALIAÇÕES| BANCO CURRÍCULOS| CONTRATOS| DESAFIOS WEEKE| FRANQUEADORA WEEKE| FUNIL DE VENDAS| INOVA WEEKE| JURÍDICO| CAMALEÃO SILVESTRE| DESENVOLVIMENTO| CAPACITAÇÃO/IMPLANTAÇÃO| SUPORTE / MELHORIAS| FLUXO SIMPLES| IDÉIAS ESTRATÉGICAS| PRODUÇÃO | CLOUD| ADM FINANCEIRO| MARKETING;;Super Administrador;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Taylo;taylo.mt@gmail.com;6592853090;08/10/1988 ;Homen;Programador;taylo;DESENVOLVIMENTO;DESAFIOS WEEKE| FRANQUEADORA WEEKE| FUNIL DE VENDAS| INOVA WEEKE| DESENVOLVIMENTO| SUPORTE / MELHORIAS| IDÉIAS ESTRATÉGICAS| MARKETING;teste;Supervisor;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Valter Carvalho;valtercarvalhomt@gmail.com;;09/03/1998 ;Homen;;valtercarvalhomt@gmail.com;SUPORTE / MELHORIAS;DESAFIOS WEEKE| INOVA WEEKE| AVALIAÇÕES| FUNIL DE VENDAS| | | FRANQUEADORA WEEKE| CAMALEÃO SILVESTRE| DESENVOLVIMENTO| CAPACITAÇÃO/IMPLANTAÇÃO| MARKETING;;Super Administrador;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Vinícius Morais;vinicius.morais.p@gmail.com;65984680271;19/03/1990 ;Homen;;viniciusmorais;CAPACITAÇÃO/IMPLANTAÇÃO;AVALIAÇÕES| CAPACITAÇÃO/IMPLANTAÇÃO;;Supervisor;2023-04-04 17:06:27;;Ativo;"
+    ],
+    [
+        "Yuri ;yuridoin@gmail.com;;20/04/2023 ;Homen;;yuridoin;SUPORTE / MELHORIAS;DESENVOLVIMENTO| CAPACITAÇÃO/IMPLANTAÇÃO| SUPORTE / MELHORIAS;;Administrador;2023-06-13 07:43:31;;Ativo;"
+    ]
+]
